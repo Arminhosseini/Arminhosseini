@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armin Hosseini</h1>
-<h3 align="center">A junior data scientist with experience in software developing</h3>
+<h3 align="center">Passionate software engineer with interests in data science</h3>
 
 - 📫 How to reach me **a.hosseini@alumni.iut.ac.ir**
 
