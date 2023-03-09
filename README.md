@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Armin Hosseini</h1>
 <h3 align="center">Passionate software engineer with interests in data science</h3>
 
-- 📫 How to reach me **a.hosseini@alumni.iut.ac.ir**
+- 📫 How to reach me **armin685@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/armin-hosseini-05001a118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/armin-hosseini-05001a118" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/arminhsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/armin-hosseini-05001a118" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
