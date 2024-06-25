@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armin Hosseini</h1>
-<!-- <h3 align="center">Passionate software engineer with interests in data science</h3>
- -->
+<!-- <h3 align="center">Passionate software engineer with interests in data science</h3> -->
+
 - 📫 How to reach me **armin685@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
